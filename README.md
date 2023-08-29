@@ -7,3 +7,4 @@
 4. Run `python azure_openai_gpt3.py` to test the connection.
 5. Run `python azure_openai_gpt3+.py` to test GPT3.5 and GPT4.
 6. Run `python azure_openai_langchain.py` to test OpenAI LLM with langchain.
+7. Run `python embeddings.py` to test embeddings from openai. 
